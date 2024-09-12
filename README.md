@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **adhikarytunir7@gmail.com**
 
-- 📁 Highlighted Projects :**DEV - CODEPEN ,GROUP CHAT PLATFORM (Deployed)**
+- 📁 Highlighted Projects :**CODEPEN , GROUP CHAT PLATFORM (Deployed)**
 
 - 💬 Ask me about **Frontend Development , Data , Data Structure & Algo**
 
