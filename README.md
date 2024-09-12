@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tunir Adhikary</h1>
-<h3 align="center">A passionate technology learner</h3>
+<h3 align="center">A passionate Technology Learner</h3>
 
 <b>- 👨‍💻 My Technical Domains : </b> DSA , WEB DEV , DATA ANALYTICS
 
-- 📁 Highlighted Projects [DEV - CODEPEN , GROUP CHAT PLATFORM (Deployed)]
+<b>- 📁 Highlighted Projects : </b> CODEPEN , GROUP CHAT PLATFORM (Deployed)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
