@@ -8,9 +8,9 @@
 
 - 📫 How to reach me **adhikarytunir7@gmail.com**
 
-- 📁 Highlighted Projects :**CODEPEN , GROUP CHAT PLATFORM (Deployed)**
+- 📁 Highlighted Projects : **CODEPEN , GROUP CHAT PLATFORM (Deployed Link : https://tunir-chat-app.netlify.app/)**
 
-- 💬 Ask me about **Frontend Development , Data , Data Structure & Algo**
+- 💬 Ask me about **Frontend Development , Data Visualization , Data Structure & Algo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
