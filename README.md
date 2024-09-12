@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tunir Adhikary</h1>
 <h3 align="center">A passionate technology learner</h3>
 
-- 👨‍💻 My Technical Domains : DSA , WEB DEV , DATA ANALYTICS
+<b>- 👨‍💻 My Technical Domains : </b> DSA , WEB DEV , DATA ANALYTICS
 
 - 📁 Highlighted Projects [DEV - CODEPEN , GROUP CHAT PLATFORM (Deployed)]
 
