@@ -4,9 +4,9 @@
 
 - 👨‍💻 My Technical Domains : **3D's --> DSA , DEV , DATA Analytics**
 
-- 🌱 I’m currently learning **DSA , MERN**
+- 🌱 I’m currently learning : **DSA , MERN**
 
-- 📫 How to reach me **adhikarytunir7@gmail.com**
+- 📫 How to reach me : **adhikarytunir7@gmail.com**
 
 - 📁 Highlighted Projects : **CODEPEN , GROUP CHAT PLATFORM**
   **(Deployed Link : https://tunir-chat-app.netlify.app/)**
