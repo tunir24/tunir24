@@ -9,7 +9,7 @@
 - 📫 How to reach me **adhikarytunir7@gmail.com**
 
 - 📁 Highlighted Projects : **CODEPEN , GROUP CHAT PLATFORM**
-- **(Deployed Link : https://tunir-chat-app.netlify.app/)**
+  **(Deployed Link : https://tunir-chat-app.netlify.app/)**
 
 - 💬 Ask me about **Frontend Development , Data Visualization , Data Structure & Algo**
 
