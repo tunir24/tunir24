@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Technology Learner</h3>
 <img align='right' alt='picture' width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 👨‍💻 My Technical Domains : **3D's --> DSA , DEV , DATA Analytics**
+- 👨‍💻 My Technical Domains : **3D's --> DSA , DEV , DATA**
 
 - 🌱 I’m currently learning : **DSA , MERN**
 
@@ -11,7 +11,7 @@
 - 📁 Highlighted Projects : **CODEPEN , GROUP CHAT PLATFORM**
   **(Deployed Link : https://tunir-chat-app.netlify.app/)**
 
-- 💬 Ask me about **Frontend Development , Data Visualization , Data Structure & Algo**
+- 💬 Ask me about **Frontend Development , Data Analytics & Visualization , Data Structure & Algo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
