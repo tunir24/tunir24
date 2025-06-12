@@ -4,14 +4,14 @@
 
 - 👨‍💻 My Technical Domains : **3D's --> DSA , DEV , DATA**
 
-- 🌱 I’m currently learning : **DSA , MERN**
+- 🌱 I’m currently learning : **DSA , Data Analytics , Data Engineering**
 
 - 📫 How to reach me : **adhikarytunir7@gmail.com**
 
-- 📁 Highlighted Projects : **CODEPEN , GROUP CHAT PLATFORM**
+- 📁 Highlighted Projects : **CODEPEN , GROUP CHAT PLATFORM , OLA Full-fledged Business Report**
   **(Deployed Link : https://tunir-chat-app.netlify.app/)**
 
-- 💬 Ask me about **Frontend Development , Data Analytics & Visualization , Data Structure & Algo**
+- 💬 Ask me about **Frontend Development , Data Analytics & Engineering , Data Structure & Algo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
