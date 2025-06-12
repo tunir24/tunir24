@@ -8,7 +8,7 @@
 
 - 📫 How to reach me : **adhikarytunir7@gmail.com**
 
-- 📁 Highlighted Projects : **CODEPEN , GROUP CHAT PLATFORM , OLA Full-fledged Business Report**
+- 📁 Highlighted Projects : **CODEPEN , OLA Full-fledged Business Report , GROUP CHAT PLATFORM**
   **(Deployed Link : https://tunir-chat-app.netlify.app/)**
 
 - 💬 Ask me about **Frontend Development , Data Analytics & Engineering , Data Structure & Algo**
